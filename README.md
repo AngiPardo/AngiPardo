@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a passionate frontend developer from Colombia</h1>
+<h1 align="center">I'm a colombian passionate frontend developer <a href="https://linkedin.com/in/https://www.linkedin.com/in/angi-pardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angi-pardo/" height="30" width="40" /></a></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
