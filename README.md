@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angi Pardo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- I’m currently learning **Bootstrap, React and React Native**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/angi-pardo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/angi-pardo/" height="30" width="40" /></a>
